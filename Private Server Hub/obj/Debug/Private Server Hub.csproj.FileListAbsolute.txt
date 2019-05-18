@@ -1,0 +1,22 @@
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\bin\Debug\Private Server Hub.exe.config
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\bin\Debug\Private Server Hub.exe
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\bin\Debug\Private Server Hub.pdb
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.csprojAssemblyReference.cache
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private_Server_Hub.Form1.resources
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private_Server_Hub.Properties.Resources.resources
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.csproj.GenerateResource.cache
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.csproj.CoreCompileInputs.cache
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.exe
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.pdb
+C:\Users\readz\Desktop\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private_Server_Hub.Form2.resources
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\bin\Debug\Private Server Hub.exe.config
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\bin\Debug\Private Server Hub.exe
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\bin\Debug\Private Server Hub.pdb
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.csprojAssemblyReference.cache
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private_Server_Hub.Form1.resources
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private_Server_Hub.Form2.resources
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private_Server_Hub.Properties.Resources.resources
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.csproj.GenerateResource.cache
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.csproj.CoreCompileInputs.cache
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.exe
+C:\Users\readz\Desktop\Items\PSH\Private Server Hub\Private Server Hub\obj\Debug\Private Server Hub.pdb
