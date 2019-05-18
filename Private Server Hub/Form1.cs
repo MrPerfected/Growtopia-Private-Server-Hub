@@ -20,7 +20,9 @@ namespace Private_Server_Hub
             InitializeComponent();
          
         }
-  
+        private bool _dragging = false;
+        private Point _offset;
+        private Point _start_point = new Point(0, 0);
         private void Form1_Load(object sender, EventArgs e)
         {
             string filePath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
@@ -136,6 +138,31 @@ namespace Private_Server_Hub
         }
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void Form1_MouseDown(object sender, MouseEventArgs e)
+        {
+            _dragging = true;
+            _start_point = new Point(e.X, e.Y);
+        }
+
+        private void Form1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (_dragging)
+            {
+                Point p = PointToScreen(e.Location);
+                Location = new Point(p.X - this._start_point.X, p.Y - this._start_point.Y);
+            }
+        }
+
+        private void Form1_MouseUp(object sender, MouseEventArgs e)
+        {
+            _dragging = false;
+        }
+
+        private void Button6_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
