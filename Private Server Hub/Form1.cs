@@ -53,7 +53,7 @@ namespace Private_Server_Hub
             MessageBox.Show("Connected to Regular GT");
             using (StreamWriter w = File.AppendText(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.System), "drivers/etc/hosts")))
             {
-                w.WriteLine("#Cryote's GTPS hub");
+                w.WriteLine("#Perfected's GTPS hub");
                 w.WriteLine("#GROWTOPIA MAIN SERVERS");
       
             }
@@ -71,7 +71,7 @@ namespace Private_Server_Hub
             File.WriteAllLines(@"c:\windows\system32\drivers\etc\hosts", new[] { text });
             using (StreamWriter w = File.AppendText(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.System), "drivers/etc/hosts")))
             {
-                w.WriteLine("#Cryote's GTPS hub");
+                w.WriteLine("#Perfected's GTPS hub");
                 w.WriteLine("#Vyte");
                 w.WriteLine(serverAddress[1] + " growtopia1.com");
                 w.WriteLine(serverAddress[1] + " growtopia2.com");
@@ -94,7 +94,7 @@ namespace Private_Server_Hub
             File.WriteAllLines(@"c:\windows\system32\drivers\etc\hosts", new[] { text });
             using (StreamWriter w = File.AppendText(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.System), "drivers/etc/hosts")))
             {
-                w.WriteLine("#Cryote's GTPS hub");
+                w.WriteLine("#Perfected's GTPS hub");
                 w.WriteLine("#MNT");
                 w.WriteLine(serverAddress[1] + " growtopia1.com");
                 w.WriteLine(serverAddress[1] + " growtopia2.com");
